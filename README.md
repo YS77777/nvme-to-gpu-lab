@@ -18,6 +18,11 @@ cuFile are later stages because native Windows does not provide those APIs.
 See [docs/ROADMAP.md](docs/ROADMAP.md) for goals, tasks, and exit criteria for
 every stage.
 
+When continuing from a Windows Codex checkout, start with
+[docs/WINDOWS_HANDOFF.md](docs/WINDOWS_HANDOFF.md). The repository-level
+[`AGENTS.md`](AGENTS.md) gives a new Codex chat the decisions and validation
+rules carried over from the original Linux development conversation.
+
 ## Stage 1 build
 
 The VM has GNU Make and `g++`:
