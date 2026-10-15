@@ -1,0 +1,9 @@
+build/
+bin/
+data/
+*.csv
+*.pyc
+__pycache__/
+results/*.json
+results/*.log
+!results/README.md
